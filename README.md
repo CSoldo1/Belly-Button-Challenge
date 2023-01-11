@@ -9,6 +9,11 @@ Using plotly and JavaScript, I created a dashboard which displays species of bac
 * D3.js
 * samples.json
 
+## Analysis
+To view the dashboard, open the index.html file within the challenge folder. 
+
 ## Results
 
-![Screenshot of Dashboar](
+![Screenshot of Dashboar](https://github.com/CSoldo1/Belly-Button-Challenge/blob/main/Challenge/screenshot1.PNG)
+
+![Screenshot 2 of Dashboard](https://github.com/CSoldo1/Belly-Button-Challenge/blob/main/Challenge/screenshot2.PNG)
